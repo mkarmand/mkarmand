@@ -41,6 +41,8 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 7. [Recommendation System](https://github.com/mkarmand/Recommendation-System)
 8. [Human Recourses Analysis](https://github.com/mkarmand/Human-Resources)
 9. [Students Performance Analysis](https://github.com/mkarmand/Students-Performance)
+10.  [Menstrual Cycle Prediction](https://github.com/mkarmand/)
+11.   [Machine Learning System](https://github.com/mkarmand/)
 
 ---
 
