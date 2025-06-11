@@ -16,9 +16,9 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 ### 🌟 Key Skills
 - 🧠 Machine Learning  
 - 📈 Data Analysis  
-- 🧪 Data Science  
-- 📊 Tableau  
+- 🧪 Data Science
 - 🐍 Python  
+- 📊 Tableau  
 - 🔬 TensorFlow  
 - 🌐 Streamlit Cloud Deployment
   
@@ -32,17 +32,18 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 
 ### 📂 My Projects
 
-1. [Diabetes Mellitus DNA Sequences Classification](https://github.com/mkarmand/Diabetes-Mellitus-DNA-Sequences)  
-2. [Air Quality Analysis](https://github.com/mkarmand/Air-Quality-Analysis)  
-3. [Bank Transaction Clustering](https://github.com/mkarmand/Bank-Transaction)  
-4. [Product Sentiment Analysis on Tokopedia](https://github.com/mkarmand/Product-Sentiment-Analysis-on-Tokopedia)
-5. [American Hand Sign Image Classification](https://github.com/mkarmand/)
-6. [House Price Prediction](https://github.com/MKarmand/House-Price-Prediction)
-7. [Recommendation System](https://github.com/mkarmand/Recommendation-System)
-8. [Human Resources Analysis](https://github.com/mkarmand/Human-Resources)
-9. [Students Performance Analysis](https://github.com/mkarmand/Students-Performance)
-10.  [Menstrual Cycle Prediction](https://github.com/mkarmand/Menstrual-Cycle-Prediction)
-11.   [Machine Learning System](https://github.com/mkarmand/)
+1. [Diabetes Mellitus DNA Sequences Classification](https://github.com/mkarmand/Diabetes-Mellitus-DNA-Sequences)
+2. [Rock-Paper-Scissors Image Classification](https://github.com/mkarmand/Rock-Paper-Scissors) 
+3. [Air Quality Analysis](https://github.com/mkarmand/Air-Quality-Analysis)  
+4. [Bank Transaction Clustering](https://github.com/mkarmand/Bank-Transaction)  
+5. [Product Sentiment Analysis on Tokopedia](https://github.com/mkarmand/Product-Sentiment-Analysis-on-Tokopedia)
+6. [American Sign Language Digits Classification](https://github.com/mkarmand/American-Sign-Language-Digits)
+7. [House Price Prediction](https://github.com/MKarmand/House-Price-Prediction)
+8. [Recommendation System](https://github.com/mkarmand/Recommendation-System)
+9. [Human Resources Analysis](https://github.com/mkarmand/Human-Resources)
+10. [Students Performance Analysis](https://github.com/mkarmand/Students-Performance)
+11.  [Menstrual Cycle Prediction](https://github.com/mkarmand/Menstrual-Cycle-Prediction)
+12.   [Machine Learning System](https://github.com/mkarmand/)
 
 ---
 
