@@ -43,7 +43,7 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 9. [Human Resources Analysis](https://github.com/mkarmand/Human-Resources)
 10. [Students Performance Analysis](https://github.com/mkarmand/Students-Performance)
 11.  [Menstrual Cycle Prediction](https://github.com/mkarmand/Menstrual-Cycle-Prediction)
-12.   [Machine Learning System](https://github.com/mkarmand/)
+12.   [Machine Learning System](https://github.com/mkarmand/Eksperimen_SML_Muhammad-Kristover-Armand)
 
 ---
 
