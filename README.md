@@ -1,36 +1,36 @@
-## 👋 Hi there!
+##  Hi there!
 I'm a passionate data enthusiast with a strong background in **Machine Learning**, **Data Science**, and **Data Analysis**. 
 
 ---
 
-### 🚀 What I Do
-- 🔍 Analyze data to uncover patterns and trends that support business decisions and build predictive models
-- 🤖 Build machine learning and deep learning models using **Scikit-learn** & **TensorFlow**  
-- 📊 Create interactive dashboards and visualizations using **Tableau**  
-- 🐍 Develop data workflows and tools in **Python**  
-- 🌐 Build and deploy data applications using **Streamlit Cloud** platforms
+###  What I Do
+-  Analyze data to uncover patterns and trends that support business decisions and build predictive models
+-  Build machine learning and deep learning models using **Scikit-learn** & **TensorFlow**  
+-  Create interactive dashboards and visualizations using **Tableau**  
+-  Develop data workflows and tools in **Python**  
+-  Build and deploy data applications using **Streamlit Cloud** platforms
 
 
 ---
 
-### 🌟 Key Skills
-- 🧠 Machine Learning  
-- 📈 Data Analysis  
-- 🧪 Data Science
-- 🐍 Python  
-- 📊 Tableau  
-- 🔬 TensorFlow  
-- 🌐 Streamlit Cloud Deployment
+###  Key Skills
+-  Machine Learning  
+-  Data Analysis  
+-  Data Science
+-  Python  
+-  Tableau  
+-  TensorFlow  
+-  Streamlit Cloud Deployment
   
 ---
 
-### 🌐 Web Apps & Dashboards
+###  Web Apps & Dashboards
 - [Streamlit Cloud](https://share.streamlit.io/user/mkarmand)  
 - [Public Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/)
 
 ---
 
-### 📂 My Projects
+###  My Projects
 
 1. [Diabetes Mellitus DNA Sequences Classification](https://github.com/mkarmand/Diabetes-Mellitus-DNA-Sequences)
 2. [Rock-Paper-Scissors Image Classification](https://github.com/mkarmand/Rock-Paper-Scissors) 
@@ -47,7 +47,7 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 - **Languages**: Python, SQL  
 - **Libraries**: Scikit-learn, TensorFlow, Pandas, Matplotlib, Seaborn, NumPy
 - **Tools**: Google Colab, Jupyter, VS Code, Tableau, Streamlit, Git 
