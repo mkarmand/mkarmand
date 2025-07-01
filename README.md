@@ -10,7 +10,6 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 -  Develop data workflows and tools in **Python**  
 -  Build and deploy data applications using **Streamlit Cloud** platforms
 
-
 ---
 
 ###  Key Skills
@@ -22,11 +21,6 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 -  TensorFlow  
 -  Streamlit Cloud Deployment
   
----
-
-###  Web Apps & Dashboards
-- [Streamlit Cloud](https://share.streamlit.io/user/mkarmand)  
-- [Public Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/)
 
 ---
 
@@ -45,6 +39,13 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 11.  [Menstrual Cycle Prediction](https://github.com/mkarmand/Menstrual-Cycle-Prediction)
 12.   [Machine Learning System](https://github.com/mkarmand/Eksperimen_SML_Muhammad-Kristover-Armand)
 
+---
+
+###  My Web Apps, Dashboards, & Dataset
+- [Streamlit Cloud](https://share.streamlit.io/user/mkarmand)  
+- [Public Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/)
+- [Kaggle Dataset](https://www.kaggle.com/mkarmand/datasets)
+- 
 ---
 
 ###  Tools & Technologies
