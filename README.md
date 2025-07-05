@@ -42,8 +42,8 @@ I'm a passionate data enthusiast with a strong background in **Machine Learning*
 ---
 
 ###  My Web Apps, Dashboards, & Dataset
-- [Streamlit Cloud](https://share.streamlit.io/user/mkarmand)  
-- [Public Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/)
+- [Streamlit Cloud Web](https://share.streamlit.io/user/mkarmand)  
+- [Public Tableau Dashboards](https://public.tableau.com/app/profile/muhammad.armand7202/)
 - [Kaggle Dataset](https://www.kaggle.com/mkarmand/datasets)
   
 ---
